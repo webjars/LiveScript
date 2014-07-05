@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>LiveScript</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1-SNAPSHOT</version>
     <name>LiveScript</name>
     <description>WebJar for LiveScript</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/LiveScript</url>
         <connection>scm:git:https://github.com/webjars/LiveScript.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/LiveScript.git</developerConnection>
-        <tag>LiveScript-1.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
